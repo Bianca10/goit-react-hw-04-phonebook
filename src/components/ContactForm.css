@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  border: 1px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 300px;
+  padding-left: 10px;
+}
+
+.button-form {
+  width: 100px;
+  border-radius: 10px;
+  background-color: white;
+  border: 1px solid;
+}
+
+.input-form {
+  width: 200px;
+  border: 1px solid;
+}
